@@ -1,5 +1,5 @@
 > **📌 Project Archival Note:** 
-> This is an archived project developed by Lê Đình Tuệ Minh back in 2020–2021 (Grade 8 / Middle School), originally hosted on my former GitHub account ([@tueminh192](https://github.com/tueminh192)). Migrated to this primary account to consolidate my technical portfolio.
+> This is an archived project developed by me back in 2020–2021, originally hosted on my former GitHub account ([@tueminh192](https://github.com/tueminh192)). Migrated to this primary account to consolidate my technical portfolio.
 
 # HP-AY073TU-Hackintosh
 Successful install macOS Monterey on HP AY073TU laptop
